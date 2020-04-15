@@ -27,12 +27,12 @@
 - Live server
 - Quokka
 
-## PHP
-
-- PHP IntelliSense
-- PHP Debug
-
 ## Markdown
 
 - markdownlint
 - Markdown All in One
+
+## PHP
+
+- PHP IntelliSense
+- PHP Debug
