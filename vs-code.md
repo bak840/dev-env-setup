@@ -4,10 +4,10 @@
 - Auto Rename Tag
 - Auto Close Tag
 - Path Intellisense
-- Polacode
 - Prettier
 - Better Comments
 - Better Align
+- Polacode
 ## Others
 - Project Manager
 - Git Lens
