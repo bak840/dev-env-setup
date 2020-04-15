@@ -137,3 +137,9 @@ xdebug.remote_enable=1
 xdebug.remote_host=localhost
 xdebug.remote_port=9000
 ```
+
+## Useful links
+
+- <https://doc.ubuntu-fr.org/lamp>
+- <https://www.freecodecamp.org/news/setup-a-php-development-environment-on-windows-subsystem-for-linux-wsl-9193ff28ae83/>
+- <https://blog.devsense.com/2018/04/wsl#heading-3>
