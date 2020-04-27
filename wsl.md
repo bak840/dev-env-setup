@@ -22,6 +22,14 @@
 
 [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
 
+## Git Setup
+
+On Windows and WSL :
+
+```bash
+git config --global core.autocrlf false
+```
+
 ## Install Node
 
 ```bash
